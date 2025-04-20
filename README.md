@@ -144,12 +144,6 @@ We welcome contributions! If you have an idea for a new project or improvements 
 
 ---
 
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
 Feel free to explore, learn, and create your own projects with Raspberry Pi! If you have any questions, open an issue, and we'll be happy to help!
 
 --- 
